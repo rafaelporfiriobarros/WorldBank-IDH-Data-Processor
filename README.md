@@ -48,10 +48,11 @@ O projeto consiste em um único script Python (`transform_idh_data.py`) e um arq
    git clone https://github.com/seu-usuario/WorldBank-IDH-Data-Processor.git
    cd WorldBank-IDH-Data-Processor
 
-pip install pandas
 
 2. Instale as dependências:
 Certifique-se de ter o Python instalado. Em seguida, instale o Pandas:
+
+pip install pandas
 
 3.  Execute o script:
 Coloque o arquivo IDHhistorico.csv na pasta do projeto e execute o script:
