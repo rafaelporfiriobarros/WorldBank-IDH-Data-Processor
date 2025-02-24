@@ -50,16 +50,19 @@ O projeto consiste em um único script Python (`transform_idh_data.py`) e um arq
 
 
 2. Instale as dependências:
+
 Certifique-se de ter o Python instalado. Em seguida, instale o Pandas:
 
 pip install pandas
 
 3.  Execute o script:
+
 Coloque o arquivo IDHhistorico.csv na pasta do projeto e execute o script:
 
 python transform_idh_data.py
 
 4. Verifique o resultado:
+
 Após a execução, o arquivo dados_transformados.csv será gerado na pasta do projeto.
 
 ## 📊 Exemplo da Transformação dos dados
